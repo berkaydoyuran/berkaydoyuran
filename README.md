@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Berkay
+#### Data Science Student | Django Developper
 
-<!--
-**berkaydoyuran/berkaydoyuran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Berkay Doyuran, born and raised in Cyprus, currently a 2nd-year computer engineering student at Çukurova University. I am interested in data science and constantly striving to improve myself. Ambitious, open to innovations, and skilled in problem-solving. I am determined to achieve great success in the future.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: Python | Django | Numpy | Pandas | MySQL | R 
+
+- 🔭 I’m currently working on Django 
+- 🌱 I’m currently learning Data Science 
+- 📫 How to reach me: berkay.doyuran02@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/berkaydoyuran)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/berkay-doyuran//)  
+
